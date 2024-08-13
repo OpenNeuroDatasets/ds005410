@@ -1,8 +1,13 @@
 {
-  "Name": "Semantic_conditioning",
-  "ReferencesAndLinks": [""],
-  "Authors": ["Yuri G. Pavlov"],
-  "License": "",
-  "BIDSVersion": "1.8.0",
-  "HEDVersion": "8.1.0"
+    "Name": "Semantic_conditioning",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "Authors": [
+        "Yuri G. Pavlov"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005410.v1.0.0"
 }
