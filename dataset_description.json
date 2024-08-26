@@ -9,5 +9,6 @@
     "License": "CC0",
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005410.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005410.v1.0.0",
+    "HowToAcknowledge": "https://doi.org/10.1101/2024.08.13.607803"
 }
